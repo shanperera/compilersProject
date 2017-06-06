@@ -10,6 +10,7 @@ The purpose of the project was to find a way to teach the topic of finite state 
 3) Run Jupyter Notebooks and open the TeachingCompilers.ipynb
 
 ##  Run the Notebook Online
+https://notebooks.azure.com/
 Sign in with a Microsoft account (I used my decade old Hotmail account) and upload the TeachingCompilers.ipynb file to the server and run the notebook online.
 
 ## Note
