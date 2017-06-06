@@ -12,6 +12,6 @@ The purpose of the project was to find a way to teach the topic of finite state 
 ##  Run the Notebook Online
 Sign in with a Microsoft account (I used my decade old Hotmail account) and upload the TeachingCompilers.ipynb file to the server and run the notebook online.
 
-##Note
+## Note
 When running the notebook for the first time, make sure to run the cells with the code blocks, this can be done by clicking on the code block, and pressing the "Run" button on the toolbar in the Jupyter Notebooks interface, or simply pressing "Run All" instead.
 
